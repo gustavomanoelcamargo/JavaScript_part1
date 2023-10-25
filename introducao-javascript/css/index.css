@@ -37,9 +37,18 @@ header .container:before{
 	width: 40%;
 	height: 400px;
 	margin-top: 10px;
-	margin-left: 10px;
 	margin-right: 10px;
 	margin-left: 480px;
+	float: right;
+}
+
+.container-img-salada{
+	width: 40%;
+	height: 380px;
+	margin-top: -400px;
+	margin-right: 10px;
+	margin-left: 40px;
+	float: left;
 }
 
 .container{
